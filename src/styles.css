@@ -21,6 +21,7 @@ body {
 
 .content {
   min-height: calc(100vh - 100px);
-  max-width: 720px;
+  width: 720px;
+  max-width: 100%;
   margin: auto;
 }
